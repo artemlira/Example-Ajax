@@ -1,0 +1,22 @@
+{
+   "cars": [
+      {
+         "brand": "bmw",
+         "model": "m5",
+         "price": 51000,
+         "description": "description for bmw Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, explicabo."
+      },
+      {
+         "brand": "volvo",
+         "model": "V90",
+         "price": 65000,
+         "description": "description for volvo Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, explicabo."
+      },
+      {
+         "brand": "москвич",
+         "model": "Gold",
+         "price": 5000,
+         "description": "description for Мщсквич Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, explicabo."
+      }
+   ]
+}
